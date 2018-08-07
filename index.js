@@ -2,13 +2,12 @@ var animal = 'dog'
 
 function myAnimal() {
   var animal = 'cat'
-  console.log(animal)
+  return animal
 }
 
 function yourAnimal() {
   var animal = 'cat'
   return animal
-
 }
 
 function add2(n) {
